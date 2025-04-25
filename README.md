@@ -45,5 +45,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/
 ### 📊 Estatísticas
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizhmaux&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizhmaux&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizhmaux&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9)
