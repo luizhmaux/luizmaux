@@ -2,7 +2,7 @@
 
 
 
-Meu nome é Luiz Henrique Maux, tenho 25 anos, atualmente faço faculdade de Análise e Desenvolvimentos de Sistemas na UNINASSAU. Tive contato com tecnologia desde pequeno mas despertei para aréa de programação a uns anos atras, tenho bastante interesse dados mas também procuro me especializar em front-end e back-end.
+Meu nome é Luiz Henrique Maux, tenho 25 anos, atualmente faço faculdade de Análise e Desenvolvimentos de Sistemas na UNINASSAU. Tive contato com tecnologia desde pequeno mas despertei para aréa de programação a uns anos atras, tenho bastante interesse dados e também em defesa de redes.
 
 - 👨‍💻 Atualmente estou apenas estudando.
 - 🌱 Decidi concentrar minha base de estudo em dados, focando em Python, SQL e BI.
@@ -25,10 +25,6 @@ Meu nome é Luiz Henrique Maux, tenho 25 anos, atualmente faço faculdade de An�
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="30"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-   <img align="center" alt="CSS" height="30" width="30"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="30"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Python" height="30" width="30"
